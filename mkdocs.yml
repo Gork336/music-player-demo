@@ -1,0 +1,9 @@
+site_name: My Docs
+theme:
+  name: material
+  language: zh
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      auto_title: true
+  - pymdownx.superfences
